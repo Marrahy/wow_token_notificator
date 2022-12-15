@@ -16,9 +16,9 @@ if price > 250000:
                                 duration='short')
     notification.show()
 else:
-    notification = Notification(app_id='The mf token dude',
-                                title='MF, get ur fucking ass in WoW',
-                                msg='We must buy the fucking token dumb fuck',
+    notification = Notification(app_id='Token Price',
+                                title="It's the right time"
+                                msg="Don't think about it more, just buy it, you're literally buying 13€ with wow gold",
                                 duration='long')
     notification.show()
 exit()
