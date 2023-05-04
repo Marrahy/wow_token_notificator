@@ -18,7 +18,7 @@ if price > 250000:
 else:
     notification = Notification(app_id='Token Price',
                                 title="It's the right time"
-                                msg="Don't think about it more, just buy it, you're literally buying 13€ with wow gold",
+                                msg="¡GOGOGOGOGOGOGOGO!",
                                 duration='long')
     notification.show()
 exit()
